@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @193Sourabh
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...C language
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rathoresourabh193@gmail.com
 
